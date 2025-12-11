@@ -6,7 +6,7 @@ This project showcases core frontend skills such as layout design, responsive UI
 
 📸 Project Preview
 ⭐ Hero Section
-![Hero Section](hero.png)
+![Hero Section](Hero.png)
 🔍 Features Section
 ![Features Section](features.png)
 💬 Testimonials Section
